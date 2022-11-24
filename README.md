@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @AvivYogev
-- 👀 I’m interested in design & technology
+-  A Product Designer
+-  I’m interested in design & technology
+-  Love music, typography, gaming and sports
+-  Learning independently anything that triggers my curiousity
 
 <!---
 AvivYogev/AvivYogev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
